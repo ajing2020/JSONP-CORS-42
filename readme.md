@@ -1,3 +1,4 @@
+
 # 使用方式
 
 1. 安装node-dev ```yarn global add node-dev```
@@ -9,7 +10,6 @@
 6. 记得删除hosts里面添加的内容 否则无法访问qq.com
 
 ## 主要信息
-
 看一下qq.com里面的server.js的内容，预留位置，然后替换，回调。具体去参考笔记
 JSONP的实现的部分代码比较多
 笔记地址：
