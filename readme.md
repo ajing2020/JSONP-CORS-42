@@ -13,4 +13,4 @@
 ## 主要信息
 看一下qq.com里面的server.js的内容，预留位置，然后替换，回调。具体去参考笔记
 JSONP的实现的部分代码比较多
-笔记地址：
+笔记地址：https://www.yuque.com/docs/share/4cfec37d-3b5b-4ab9-a221-5c32698607ef?# 《跨域》
